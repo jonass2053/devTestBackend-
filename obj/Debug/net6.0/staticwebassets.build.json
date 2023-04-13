@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BJ/Zd+kelgv70EyVz6D6J/2bZdP0uQHwqQK1M1uZioY=",
+  "Source": "BitmexApi",
+  "BasePath": "_content/BitmexApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
